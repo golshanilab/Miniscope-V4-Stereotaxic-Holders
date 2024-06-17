@@ -6,7 +6,7 @@ Surgical device for reliable microscope placement based on the following four pa
 3. Tapered Heat-Set Inserts for Plastic, 0-80 Thread Size, 0.115" Installed Length, Brass. McMaster Number: 93365A102
 4. 18-8 Stainless Steel Socket Head Screw, 0-80 Thread Size, 5/32" Long. McMaster Number: 92196A053
 <br>
-![IM1](/Images/A1.PNG) <br>
+(/Images/A1.PNG) <br>
 <br>
-![IM2](/Images/A2.PNG) <br>
+(/Images/A2.PNG) <br>
 
