@@ -12,7 +12,7 @@ The first component is the UCLA Miniscope V4 Holder, detailed below: <br>
 *Please Note* you only need one tyoe of screw, either the Nylon (line item #5) or the Stainless Steel (Line item #4). The decision is up to you, but the plastic screws seem to protect the miniscope housing quite well to minimize damage due to overtightening. Additionally, please ensure you have a suitable small screwdriver for either screw option! 
 
 A table view of the parts and costs can be seen below:
-<img src="Images/Parts.PNG" alt="View 1."><br>
+<img src="V4 Miniscope Holder/Images/Parts.PNG" alt="View 1."><br>
 
 And mechanical drawing of how the assembly looks can be seen here:
 <img src="V4 Miniscope Holder/Images/1.PNG" alt="View 1."><br>
