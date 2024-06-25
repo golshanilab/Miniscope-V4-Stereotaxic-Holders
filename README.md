@@ -21,5 +21,5 @@ And mechanical drawing of how the assembly looks can be seen here:
 The next component is a GRIN lens holder that can be mounted to standard stereotaxic equipment. Please note that the tolerances are very tight for this component and it is critical to print this part using a high-performance SLA-based 3D printer like the Formlabs Form 3 or equivalent. Please print in the vertical orientation so as to maintain the integrity of the vacuum channel. 
 
 And mechanical drawing of how the component looks can be seen here: <br>
-<img src="GRIN Lens Holder/Images/1.PNG" alt="View 1."><br>
+<img src="GRIN Lens Holder/Images/1.PNG" alt="View 1.">
 <img src="GRIN Lens Holder/Images/2.PNG" alt="View 1."><br>
