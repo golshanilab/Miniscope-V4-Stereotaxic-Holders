@@ -8,6 +8,8 @@ Surgical device for reliable microscope placement based on the following four pa
 4. 18-8 Stainless Steel Socket Head Screw, 0-80 Thread Size, 1/4" Long. McMaster Number: 92196A055 [Link](https://www.mcmaster.com/92196A055/)
 5. Nylon Pan Head Screws Phillips, 0-80 Thread, 1/4" Long McMaster Number: 94735A703-94735A048 [Link](https://www.mcmaster.com/94735A703-94735A048/)
 
+*Please Note* you only need one tyoe of screw, either the Nylon (line item #5) or the Stainless Steel (Line item #4). The decision is up to you, but the plastic screws seem to protect the miniscope housing quite well to minimize damage due to overtightening. Additionally, please ensure you have a suitable small screwdriver for either screw option! 
+
 A table view of the parts and costs can be seen below:
 <img src="Images/Parts.PNG" alt="View 1."><br>
 
